@@ -52,16 +52,19 @@ CCTV로 탐지한 재난 사건의 위험도와 대응 우선순위를 판단하
 
 <br clear="right">
 
-<a href="https://github.com/alswo0548/portfolio/blob/main/projects/03-climbing-web/README.md"><img align="right" width="46%" src="https://raw.githubusercontent.com/alswo0548/portfolio/main/assets/03-climbing-web/thumbnail.png" alt="Climbing Web — 자료 준비 중"></a>
+<a href="https://github.com/alswo0548/portfolio/blob/main/projects/03-climbing-web/README.md"><img align="right" width="46%" src="https://raw.githubusercontent.com/alswo0548/portfolio/main/assets/03-climbing-web/thumbnail.png" alt="Climbing Web 썸네일 — 메인 화면과 클라이밍장 지도 화면"></a>
 
 ### 03 · Climbing Web
 
-**클라이밍 주제 개인 웹 프로젝트**<br>
-`개인 프로젝트` `자료 준비 중`
+**클라이밍장 · 선수 정보 웹사이트**<br>
+`개인 프로젝트` `1인` `완료`
 
-소스코드와 실행 화면을 정리하고 있습니다. 실제 코드로 확인한 기능과 기술만 공개합니다.
+클라이밍 종목 소개, 지도 기반 클라이밍장 찾기와 성향 설문 추천, 선수 기록 차트를 담은 5페이지 웹사이트
 
-[**프로젝트 보기 →**](https://github.com/alswo0548/portfolio/blob/main/projects/03-climbing-web/README.md)
+**기술** &nbsp;JavaScript · Kakao Maps API · OpenWeather API · Chart.js<br>
+**구현** &nbsp;화면 설계 · 지도 검색 · 로드뷰 · 날씨 · 설문 추천 TOP 3 · 선수 검색·필터 · 차트
+
+[**프로젝트 보기 →**](https://github.com/alswo0548/portfolio/blob/main/projects/03-climbing-web/README.md) &nbsp;·&nbsp; [기술 상세](https://github.com/alswo0548/portfolio/blob/main/projects/03-climbing-web/TECHNICAL.md)
 
 <br clear="right">
 
